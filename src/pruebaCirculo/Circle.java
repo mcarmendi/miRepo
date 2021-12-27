@@ -1,5 +1,7 @@
 package pruebaCirculo;
-
+/**
+@autor MCarmen
+**/
 public class Circle {
 	private static final double CERO = 0.0;
 	private int x;
