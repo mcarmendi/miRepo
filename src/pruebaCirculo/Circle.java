@@ -2,6 +2,7 @@ package pruebaCirculo;
 /**
 @autor MCarmen
 Clase Circulo
+probando
 **/
 public class Circle {
 	private static final double CERO = 0.0;
